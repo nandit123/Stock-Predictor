@@ -1,5 +1,5 @@
 # Stock-Predictor
-The stock market predictor is using multiple regression models to predict the stock price of Facebook, Inc. 
+The stock market predictor is using multiple regression models to predict the stock price of Facebook, Inc. The data (1 year) is downloaded from Yahoo Finance as a .csv file
 The regression models being used are
 - linear regression model
 - ridge regression model
